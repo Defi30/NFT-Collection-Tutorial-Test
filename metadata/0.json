@@ -1,8 +1,8 @@
 {
   "name": "Echoes of Age",
   "description": "Wisdom and timeless nature.",
-  "Image URL": "https://raw.githubusercontent.com/Defi30/NFT-Collection-Tutorial-Test/refs/heads/main/Echoes%20of%20Ages.png?token=GHSAT0AAAAAACZYWOQNNCKEJYGZFJQ3HNJOZZG5IJA",
-  "Traits": [
+  "image": "https://raw.githubusercontent.com/Defi30/NFT-Collection-Tutorial-Test/refs/heads/main/Echoes%20of%20Ages.png?token=GHSAT0AAAAAACZYWOQNNCKEJYGZFJQ3HNJOZZG5IJA",
+  "attributes": [
     {
       "trait_type": "Element",
       "value": "Ancient Wisdom"
