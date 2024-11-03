@@ -1,1 +1,20 @@
+{
+  "name": "Eternal Ember",
+  "description": "A dynamic portrayal of a dragon engulfed in flames, symbolizing passion and the cycle of life and death.",
+  "image": "https://github.com/Defi30/NFT-Collection-Tutorial-Test/blob/main/Eternal%20Ember.png",
+  "attributes": [
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue-Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fiery Horizon"
+    }
+  ]
+}
 
