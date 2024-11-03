@@ -1,0 +1,19 @@
+{
+  "name": "Celestial Cascade",
+  "description": "The beauty of the dawn.",
+  "image": "https://github.com/Defi30/NFT-Collection-Tutorial-Test/blob/main/Celestial%20Cascade.png",
+  "attributes": [
+    {
+      "trait_type": "Element",
+      "value": "Wrath"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple-Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dawn"
+    }
+  ]
+}
